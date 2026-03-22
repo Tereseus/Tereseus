@@ -1,4 +1,4 @@
-## [ΠΑΝ — Personal AI Network](https://github.com/Tereseus/PAN)
+## [ΠΑΝ — Personal AI Network](https://tereseus.github.io/PAN/)
 
 Voice controls everything. Phone, computer, browser, any app — through natural conversation.
 
@@ -21,4 +21,4 @@ Voice controls everything. Phone, computer, browser, any app — through natural
 
 22-sensor wearable pendant. Self-hosted. Open source. Your data never leaves your devices.
 
-**[See the project →](https://github.com/Tereseus/PAN)** · **[Live page →](https://tereseus.github.io/PAN/)**
+**[Enter ΠΑΝ →](https://tereseus.github.io/PAN/)**
